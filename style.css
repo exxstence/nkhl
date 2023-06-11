@@ -213,8 +213,8 @@ a.underline-hover-effect {
 
 #about {
   height: max-content;
-  padding: 100px 0;
-  margin-top: 100px;
+  padding: 80px 0;
+  margin-top: 0px;
 }
 
 .title {
@@ -243,10 +243,6 @@ a.underline-hover-effect {
   text-align: center;
 }
 
-.content__title {
-  font-size: 50px;
-}
-
 .content__paragraph {
   margin: auto;
   width: 80%;
@@ -259,15 +255,13 @@ a.underline-hover-effect {
 /* faq */
 #faq {
   background-color: var(--darkgrey);
-  padding: 100px 0;
 }
-
-/* DUK */
 
 .wrapper {
   height: auto;
   width: 60%;
   margin: auto;
+  
   padding: 0 0 40px 0;
 }
 
